@@ -18,3 +18,4 @@
 - warren street
 - euston
 - king's cross & st pancras international
+- highbury & isligton
