@@ -17,3 +17,4 @@
 # victoria-north
 - warren street
 - euston
+- king's cross & st pancras international
