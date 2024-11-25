@@ -13,3 +13,4 @@
 - westbourne park
 - royal oak
 - paddington
+- edgware road
