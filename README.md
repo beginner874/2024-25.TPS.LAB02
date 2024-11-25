@@ -12,3 +12,4 @@
 - queensway
 - lancarster gate 
 - marble arch
+- bond street
